@@ -1,5 +1,7 @@
 import random
+import pygame
 import time
+import os
 #import background_music
 #from pygame import mixer
 #mixer.init()
